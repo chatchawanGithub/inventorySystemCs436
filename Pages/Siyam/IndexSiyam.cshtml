@@ -1,10 +1,11 @@
 ﻿@page
-@model inventory.Pages.Rangsit.IndexRangsitModel
+@model inventory.Pages.Siyam.IndexSiyamModel
 @{
 }
 
 
-<a class="btn-primary btn" href="/Rangsit/CreateRangsit">New Item</a>
+
+<a class="btn-primary btn" href="/Siyam/CreateSiyam">New Item</a>
 <table class="table">
     <thread>
         <tr>
@@ -18,7 +19,7 @@
             <td>Action</td>
         </tr>
     </thread>
-   <tbody>
+    <tbody>
         @foreach (var item in Model.ListStorks)
         {
             <tr>
@@ -29,8 +30,8 @@
                 <td>@item.amount</td>
                 <td>@item.create_at</td>
                 <td>
-                    <a class="btn-primary btn" href="/Rangsit/EditPageRangsit?itemid=@item.itemid"> Edit</a>
-                    <a class="btn-danger btn" href="/Rangsit/DeleteRangsit?itemid=@item.itemid">Delete</a>
+                    <a class="btn-primary btn" href="/Siyam/EditPageSiyam?itemid=@item.itemid"> Edit</a>
+                    <a class="btn-danger btn" href="/Siyam/DeleteSiyam?itemid=@item.itemid">Delete</a>
                 </td>
             </tr>
         }

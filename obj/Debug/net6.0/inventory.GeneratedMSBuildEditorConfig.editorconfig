@@ -9,53 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = inventory
 build_property.RootNamespace = inventory
-build_property.ProjectDir = C:\Users\Chatchawan2547\เดสก์ท็อป\cs436_project\inventory\
+build_property.ProjectDir = c:\Users\Chatchawan2547\เดสก์ท็อป\cs436_project\inventory\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Chatchawan2547\เดสก์ท็อป\cs436_project\inventory
+build_property.MSBuildProjectDirectory = c:\Users\Chatchawan2547\เดสก์ท็อป\cs436_project\inventory
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Areas/Identity/Pages/_ViewStart.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Error.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Index.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Privacy.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Rangsit/CreateRangsit.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Rangsit/CreateRangsit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxDcmVhdGVSYW5nc2l0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Rangsit/IndexRangsit.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Rangsit/DeleteRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxEZWxldGVSYW5nc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Rangsit/EditPageRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxFZGl0UGFnZVJhbmdzaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Rangsit/IndexRangsit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxJbmRleFJhbmdzaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Shared/_LoginPartial.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/_ViewImports.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Siyam/CreateSiyam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2l5YW1cQ3JlYXRlU2l5YW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Siyam/DeleteSiyam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2l5YW1cRGVsZXRlU2l5YW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Siyam/EditPageSiyam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2l5YW1cRWRpdFBhZ2VTaXlhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Siyam/IndexSiyam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2l5YW1cSW5kZXhTaXlhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/_ViewStart.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Shared/_Layout.cshtml]
+[c:/Users/Chatchawan2547/เดสก์ท็อป/cs436_project/inventory/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jwq4ig9upa
